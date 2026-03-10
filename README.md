@@ -93,7 +93,7 @@ The best performing model is used for predictions in the application.
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/mindscan-ai.git
+git clone git clone https://github.com/sasidhar1845/mindscan-ai.git
 
 ### 2. Install dependencies
 
